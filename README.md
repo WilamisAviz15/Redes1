@@ -1,6 +1,6 @@
 ## PROJETO REDES DE COMPUTADORES 1 - Trabalho de implementação de aplicação em redes utilizando sockets.
 
-Este projeto tem o objetivo da criação de um chat utilizando o modelo de cliente e servidor com a utilização de sockets para o envio e recebimento de mensagens, desenvolvido em Node.js. Foi feito durante a disciplina Redes de Computadores 1 do período 2020.2 no Instituto da Computação - IC, na Universidade Federal de Alagoas - UFAL.
+Este projeto tem o objetivo da criação de um chat seguindo o modelo cliente e servidor com a utilização de sockets para o envio e recebimento de mensagens, desenvolvido em Node.js. Foi feito durante a disciplina Redes de Computadores 1 do período 2020.2 no Instituto da Computação - IC, na Universidade Federal de Alagoas - UFAL.
 
 Professor da disciplina:
 * Leandro Melo de Sales           - Professor Adjunto              - leandro@ic.ufal.br
