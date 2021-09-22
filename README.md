@@ -12,6 +12,10 @@ Participantes:
 ## Instruções para execução do projeto
 * Baixar e instalar o NodeJs: 
   * https://nodejs.org/en/download/
+
+* Baixar e instalar o Visual Studio Code: 
+  * https://code.visualstudio.com/download
+ 
 * Clonar o repositório do projeto: 
 
   * abrir terminal, cmd ou similar e digitar:
