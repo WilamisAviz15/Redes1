@@ -25,9 +25,9 @@ Participantes:
    * Em seguida clique na pasta MeuChat e logo após clique no botão adicionar (Add)
 
 * Ainda no VScode clique na barra de menus na opção Terminal e logo após clique em novo terminal (new terminal)
-* Instale as dependências do projeto digitando no terminal:
+  * Instale as dependências do projeto digitando no terminal:
 
-  * npm i
+     * npm i
   
 * Após isso, basta executar a aplicação digitando no terminal:
   
