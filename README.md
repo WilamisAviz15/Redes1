@@ -29,10 +29,10 @@ Participantes:
 
   npm i
   
-  * Após isso, basta executar a aplicação digitando no terminal:
+* Após isso, basta executar a aplicação digitando no terminal:
   
-  npm run dev
+  * npm run dev
   
-  * Para testar a aplicação abra um browser de sua preferência e digite na URL:
+* Para testar a aplicação abra um browser de sua preferência e digite na URL:
   
-  localhost:9000
+  * localhost:9000
