@@ -11,13 +11,12 @@ Participantes:
 
 ## Instruções para execução do projeto
 * Baixar e instalar o NodeJs: 
-  
-  https://nodejs.org/en/download/
+  * https://nodejs.org/en/download/
 * Clonar o repositório do projeto: 
 
-  abrir terminal, cmd ou similar e digitar:
+  * abrir terminal, cmd ou similar e digitar:
   
-  git clone https://github.com/WilamisAviz15/Redes1
+  * git clone https://github.com/WilamisAviz15/Redes1
 
 * Abrir o Visual Studio Code (VScode)
 * Clicar em Arquivo (File)
