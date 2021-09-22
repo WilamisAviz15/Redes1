@@ -19,3 +19,21 @@ Participantes:
   
   git clone https://github.com/WilamisAviz15/Redes1
 
+* Abrir o Visual Studio Code (VScode)
+* Clicar em Arquivo (File)
+* Em seguida clicar em Adicionar pasta ao espaço de trabalho (add folder to workspace)
+* Procure a pasta do projeto clonada anteriormente chamada SRC, clique duas vezes nela
+* Em seguida clique na pasta MeuChat e logo após clique no botão adicionar (Add)
+
+* Ainda no VScode clique na barra de menus na opção Terminal e logo após clique em novo terminal (new terminal)
+* Instale as dependências do projeto digitando no terminal:
+
+  npm i
+  
+  * Após isso, basta executar a aplicação digitando no terminal:
+  
+  npm run dev
+  
+  * Para testar a aplicação abra um browser de sua preferência e digite na URL:
+  
+  localhost:9000
