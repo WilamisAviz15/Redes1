@@ -10,5 +10,8 @@ Participantes:
 * Wilamis Micael           - Engenharia de Computação       - wmaa@ic.ufal.br
 
 ## Instruções para execução do projeto
-* Baixar e instalar o NodeJs: https://nodejs.org/en/download/
+* Baixar e instalar o NodeJs: 
+*   https://nodejs.org/en/download/
+* Clonar o repositório do projeto: 
+*   https://github.com/WilamisAviz15/Redes1
 
