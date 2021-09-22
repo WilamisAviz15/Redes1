@@ -20,7 +20,7 @@ Participantes:
 
   * abrir terminal, cmd ou similar e digitar:
   
-  * git clone https://github.com/WilamisAviz15/Redes1
+    * git clone https://github.com/WilamisAviz15/Redes1
 
 * Abrir o Visual Studio Code (VScode):
    * Clicar em Arquivo (File)
