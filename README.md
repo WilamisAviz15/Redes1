@@ -16,6 +16,9 @@ Participantes:
 * Baixar e instalar o Visual Studio Code: 
   * https://code.visualstudio.com/download
  
+ * Baixar e instalar o Git: 
+  * https://git-scm.com/downloads
+ 
 * Clonar o repositório do projeto: 
 
   * abrir terminal, cmd ou similar e digitar:
