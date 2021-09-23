@@ -16,6 +16,9 @@ Participantes:
 * Baixar e instalar o Visual Studio Code: 
   * https://code.visualstudio.com/download
  
+* Baixar e instalar o Git: 
+  * https://git-scm.com/downloads
+ 
 * Clonar o repositório do projeto: 
 
   * abrir terminal, cmd ou similar e digitar:
@@ -37,6 +40,6 @@ Participantes:
   
     * npm run dev
   
-* Para testar a aplicação abra um browser de sua preferência e digite na URL:
+* Para testar a aplicação abra um browser de sua preferência e digite na URL (teste o cliente em browsers diferentes):
   
   * localhost:9000
