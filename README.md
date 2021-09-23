@@ -40,6 +40,6 @@ Participantes:
   
     * npm run dev
   
-* Para testar a aplicação abra um browser de sua preferência e digite na URL (teste o cliente em navegadores diferentes):
+* Para testar a aplicação abra um browser de sua preferência e digite na URL (teste o cliente em browsers diferentes):
   
   * localhost:9000
