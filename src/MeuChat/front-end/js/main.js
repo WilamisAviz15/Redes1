@@ -108,6 +108,11 @@ socket.on('messageE', (message) => {
   }, 1000 * message.time);
 });
 
+document.body.querySelector("#msg").addEventListener("input", function(){
+    var botao_proximo = document.body.querySelector("#timeMessage")
+    botao_proximo.disabled = this.value.length >= 1 ? false : true;
+  });
+
 function sendFiles() {
   const fileSelector = document.getElementById('input-file');
   fileSelector.addEventListener('change', (event) => {

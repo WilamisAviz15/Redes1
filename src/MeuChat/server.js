@@ -19,8 +19,8 @@ var rooms = []
 
 fs.readFile('arquivo.txt', 'utf-8', (err, irooms) => {
   if (err) throw err;
-  var array = irooms.split(',');
-  rooms = array
+  var c = JSON.parse(irooms);
+  rooms = c
 })
 
 app.use(express.static(path.join(__dirname, 'front-end')));
@@ -62,10 +62,10 @@ io.on('connection', socket => {
       });
     }
   });
-  
+
   socket.on('newRooms', (nameRoom) => {
     rooms.push(nameRoom)
-    fs.writeFile('arquivo.txt', rooms, (err) => {
+    fs.writeFile('arquivo.txt', JSON.stringify(rooms), (err) => {
       if (err) throw err;
       // console.log('O arquivo foi criado/atualizado!');
     });

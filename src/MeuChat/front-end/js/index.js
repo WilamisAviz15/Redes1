@@ -1,8 +1,9 @@
 const socket = io();
 
 socket.on('messageR', (m) => {
-    var array = m.split(',');
-    generateSelect(array)
+    var c = JSON.parse(m);
+    // var array = m.split(',');
+    generateSelect(c)
 })
 socket.emit('sendRooms')
 
