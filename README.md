@@ -25,7 +25,7 @@ Participantes:
 * Abrir o Visual Studio Code (VScode):
    * Clicar em Arquivo (File)
    * Em seguida clicar em Adicionar pasta ao espaço de trabalho (add folder to workspace)
-   * Procure a pasta do projeto clonada anteriormente chamada SRC, clique duas vezes nela
+   * Procure a pasta do projeto clonada anteriormente abra ela, depois procure a pasta chamada SRC, clique duas vezes nela
    * Em seguida clique na pasta MeuChat e logo após clique no botão adicionar (Add)
 
 * Ainda no VScode clique na barra de menus na opção Terminal e logo após clique em novo terminal (new terminal)
