@@ -35,6 +35,7 @@ chatForm.addEventListener('submit', (e) => {
   }
   socket.emit('chatMessage', msg);
   e.target.elements.msg.value = '';
+  e.target.elements.timeMessage.disabled = true;
   e.target.elements.msg.focus();
 });
 
